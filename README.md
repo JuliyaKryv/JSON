@@ -13,9 +13,9 @@
 | `10` `git add` new.json                                              | Додайте файл до Git                                                                                                                   |
 | `11` `git commit -m` “created new.json”                              | Закомітити файл                                                                                                                       |
 | `12` `git push`                                                      | Надішліть файл у зовнішнє сховище Github                                                                                              |
-| `13` `git touch` preferences.json                                    | Створити файл “preferences.json”                                                                                                      |
+| `13` `touch` preferences.json                                        | Створити файл “preferences.json”                                                                                                      |
 | `14` `cat >>` preferences.json                                       | У файлі Preferences.json Додайте інформацію про свої уподобання у форматі JSON                                                        |
-| `15` `git touch` skills.json                                         | Створити файл “skills.json”                                                                                                           |
+| `15` `touch` skills.json                                             | Створити файл “skills.json”                                                                                                           |
 | `16` `cat >>` skills.json                                            | Створіть файл sklls.json Додати інформацію про навички, які будуть на курсі у форматі JSON                                            |
 | `17` `git add .`                                                     | Додайте файл до Git                                                                                                                   |
 | `18` `git commit -m` “created two new files: preferences and skills” | Закомітити файл                                                                                                                       |
